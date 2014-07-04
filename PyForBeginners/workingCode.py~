@@ -1,0 +1,9 @@
+
+
+v = (input('does Jason love Amanda?\n '))
+
+
+while v != 'y':
+	print('Jason is crazy mad in love with Amanda')
+	v = (input('does Jason love Amanda?\n '))
+
